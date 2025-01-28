@@ -4,7 +4,7 @@ Me chamo Pietra Bezerra, tenho 23 anos e sou natural do Ceará. Profissional em 
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@pipszaidi?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
