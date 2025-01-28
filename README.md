@@ -1,4 +1,4 @@
-## Oii! Eu sou a Pietra
+## Oii! Eu sou a Pietra👩‍💻
 
 **`Desenvolvedora FullStack`**
 
